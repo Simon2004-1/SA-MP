@@ -1,0 +1,13 @@
+Passwort=Vlad
+Bild=Nichts
+Kills=0
+Tode=0
+Führerschein=0
+Flugschein=0
+Bootsschein=0
+Farbe=Nichts
+Replay=Aus
+SpielerStatus=Online
+SpielerStatusZ=Online
+SpielerName=Matei
+Telefonnummer=75115

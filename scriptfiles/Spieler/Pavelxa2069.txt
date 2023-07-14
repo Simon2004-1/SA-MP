@@ -1,0 +1,13 @@
+Passwort=ierdnalevap2003
+Bild=Nichts
+Kills=0
+Tode=0
+Führerschein=0
+Flugschein=0
+Bootsschein=0
+Farbe=Nichts
+Replay=Aus
+SpielerStatus=19/10/2021
+SpielerStatusZ=19/10/2021
+SpielerName=Pavelxa2069
+Telefonnummer=20174
